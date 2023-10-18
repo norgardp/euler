@@ -15,7 +15,7 @@ phi <- 0.8e14;
 
 # Atomic and Sample Constants
 Navogadro <- 6.02214076e23
-Sm2O3 <- 2*151.9197324+3*3*15.994914;
+Sm2O3 <- 2*151.9197324+3*15.994914;
 Msamp <- 1e-3;
 
 
